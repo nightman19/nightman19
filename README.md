@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile application development. 
 - 🌱 I’m currently learning Python||Django and Dart||Flutter
 - 💞️ I’m looking to collaborate with a Python or Flutter project that will help me to extend my knowledge in both areas and problem-solving skills. 
-- 📫 How to reach me on LinkedIn and Email
+- 📫 How to reach me on LinkedIn { https://www.linkedin.com/in/nurumohammed/ } and Email { num123.dev@gmail.com }
 
 <!---
 nightman19/nightman19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
