@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nuru Mohammed
-> 🔥 **Currently seeking:** Remote full-time roles or contract work (Django/Python backend, Full-stack)
-> 📍 Available immediately | 🌍 UTC+0 (overlaps EU/US hours)
+> **Currently seeking:** Remote full-time roles or contract work (Django/Python backend, Full-stack)
+> Available immediately | UTC+0 (overlaps EU/US hours)
 
 > 🔥 **Currently seeking:** Remote full-time roles or contract work (Django/Python backend, Full-stack)
 > 📍 Available immediately | 🌍 UTC+0 (overlaps EU/US hours)
