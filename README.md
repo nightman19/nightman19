@@ -2,9 +2,6 @@
 > **Currently seeking:** Remote full-time roles or contract work (Django/Python backend, Full-stack)
 > Available immediately | UTC+0 (overlaps EU/US hours)
 
-> 🔥 **Currently seeking:** Remote full-time roles or contract work (Django/Python backend, Full-stack)
-> 📍 Available immediately | 🌍 UTC+0 (overlaps EU/US hours)
-
 **Full-Stack & Mobile Developer (Django + React + Flutter)** | Building Production EdTech & Automation Systems | **Remote-Ready (UTC+0)**
 
 I build **production web and mobile applications that solve real business problems**, with a strong focus on education technology and business automation.
