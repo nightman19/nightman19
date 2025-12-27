@@ -41,10 +41,10 @@ Currently shipping and scaling real-world systems used by teachers and businesse
 
 ## 🛠️ Tech Stack
 
-**Backend:** Python • Django • Django REST Framework • PostgreSQL
-**Frontend & Mobile:** React • TypeScript • JavaScript • Tailwind CSS • Flutter (Android/iOS)
-**Tools:** Git • Docker • WeasyPrint • Jinja2 • Pandas
-**Deployment:** PythonAnywhere • Vercel • Railway
+**Backend:** Python • Django • Django REST Framework • PostgreSQL<br>
+**Frontend & Mobile:** React • TypeScript • JavaScript • Tailwind CSS • Flutter (Android/iOS)<br>
+**Tools:** Git • Docker • WeasyPrint • Jinja2 • Pandas<br>
+**Deployment:** PythonAnywhere • Vercel • Railway<br>
 **Payments:** Paystack • Mobile Money integration
 
 ---
