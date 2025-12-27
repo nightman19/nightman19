@@ -93,7 +93,7 @@ I’m open to:
 
 * **Portfolio:** [nurumohammed.vercel.app](https://nurumohammed.vercel.app/)
 * **LinkedIn:** [linkedin.com/in/nuru-mohammed](https://www.linkedin.com/in/nurumohammed/)
-* **Email:** [nurumohammed.dev@gmail.com](mailto:nurumohammed.dev@gmail.com)
+* **Email:** [nurumohammed.dev@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=nurumohammed.dev@gmail.com&tf=cm)
 * **Location:** Accra, Ghana (Remote-friendly)
 
 ---
